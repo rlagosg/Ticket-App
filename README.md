@@ -1,7 +1,7 @@
 # TicketApp Sockets frontend
 construccion del front-end de la aplicacion utilizando:
 
-- Creación de nuestra app usando AntDesign
+- AntDesign
 - React Router
 - Custom Context y hooks
 
